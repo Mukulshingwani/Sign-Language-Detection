@@ -62,3 +62,9 @@ Autocompletion and Word Suggestion simplify and accelerate the process of inform
 1. Deaf people can have a common classroom by asking their questions/doubts without any hesitation
 2. Inclusion of this community in normal schools.
 3. Tourist Guides can communicate better using sign language
+
+## Contributors
+ - Mukul Shingwani
+ - Saurabh Modi
+ - Jaimin Sanjay Gajjar
+
