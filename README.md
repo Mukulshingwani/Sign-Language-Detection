@@ -36,15 +36,6 @@ python app.py -i 0.0.0.0 -o 8080
 7. Wait for few seconds (First attempt will take time as training done first time, pickle file of model will be stored)
 8. After few seconds link for localhost (http://172.31.37.145:8080/) pops on terminal
 
-
-## Screenshots
-### H
-![H](https://user-images.githubusercontent.com/34855465/76798612-eda6c700-67f5-11ea-974e-514a82c8c5c5.png)
-
-### A
-![A](https://user-images.githubusercontent.com/34855465/76798664-044d1e00-67f6-11ea-9b41-0a4ca9f625e1.png)
-
-
 ## Inspiration
 This project focuses on developing a machine learning model to accurately detect American Sign Language (ASL) gestures. Preprocessing techniques such as contour image conversion, segmentation, and resizing were employed to enhance the model’s accuracy. Data augmentation techniques like random Gaussian noise and random horizontal flip were also used to improve model performance. The model was implemented in Pytorch, Torchscript, and ONNX environments, demonstrating its versatility and effectiveness. The results of this project suggest that machine learning can be a valuable tool in solving real-world problems related to sign language detection and interpretation, improving the quality of life for individuals in the deaf community.
 
