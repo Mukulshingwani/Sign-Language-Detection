@@ -1,0 +1,10 @@
+numpy
+Flask
+autocomplete
+torch
+imutils
+opencv_python
+livelossplot
+torch-tb-profiler
+onnx
+onnxruntime
